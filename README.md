@@ -2,7 +2,10 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moondongoh&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Moondongoh&show_icons=true">
+
+![Moon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 
 <div align=left><h2>📚 STACKS</h2></div>
    <div align="center">
