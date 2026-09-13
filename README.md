@@ -5,9 +5,9 @@
 </div> 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moondongoh&layout=compact"><br><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moondongoh&layout=compact"><br><br>
 
-![Moon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moondongoh&show_icons=true)
+![Moon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moondongoh&show_icons=true) -->
 
 
 
